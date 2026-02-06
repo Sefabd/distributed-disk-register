@@ -231,5 +231,12 @@ MIT — Eğitim ve araştırma amaçlı serbestçe kullanılabilir.
 
 ##  Katkı
 
-Pull request’e her zaman açığız!
-Yeni özellik önerileri için issue açabilirsiniz.
+[Sefa Bodur] - Storage Engineer
+
+Dağıtık sistemin veri depolama katmanı (StorageNode) geliştirildi.
+
+Google Protocol Buffers (Protobuf) ve gRPC kullanılarak veri transferi sağlandı.
+
+Verilerin yerel diskte kalıcı olarak saklanması (Persistence) için dosya sistemi entegrasyonu yapıldı.
+
+Okuma/Yazma işlemleri için güvenli ve performanslı I/O algoritmaları kodlandı.
