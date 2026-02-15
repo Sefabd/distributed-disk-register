@@ -205,21 +205,6 @@ Lider Üye:
 
 Her üye 10 saniyede bir kendi ailesini ekrana basar.
 
----
-
-##  Ödev / Bundan Sonra Yapılacaklar
-
-Öğrenciler:
-
-* Üye düşme tespiti (heartbeat)
-* Leader election
-* gRPC streaming ile real-time chat
-* Redis-backed cluster membership
-* Broadcast queue implementasyonu
-* TCP’den gelen mesajların loglanması
-* Çoklu lider senaryosu & conflict resolution
-
-gibi özellikler ekleyebilir.
 
 ---
 
